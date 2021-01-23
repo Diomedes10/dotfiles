@@ -50,4 +50,5 @@
 [pull]
   rebase = false
 [user]
-	name = danelund dane.lund@lundventuresllc.com
+	name = danelund
+	email = dane.lund@lundventuresllc.com
